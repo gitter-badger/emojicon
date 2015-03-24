@@ -1,5 +1,7 @@
 ## Emojicon
 
+[![Join the chat at https://gitter.im/rockerhieu/emojicon](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rockerhieu/emojicon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Do you like emojis in Whatsapp, iMessage? [Emojicon](http://rockerhieu.github.io/emojicon/) is a library to implement such a thing for Android.
 
 Fore more information please see [the website](http://rockerhieu.github.io/emojicon/)
